@@ -1,2 +1,2 @@
 
-my_variable = 10
+my_variable = 11
